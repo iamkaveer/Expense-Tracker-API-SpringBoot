@@ -3,6 +3,16 @@
 ## Introduction
 The Expense Tracker API is a powerful tool that allows users to effortlessly track their expenses. With this API, users can create, read, update, and delete expenses, as well as generate comprehensive reports on a monthly or weekly basis. To ensure secure access, users are required to sign in or register before utilizing the API's functionalities.
 
+Features:
+1. Expense Management: Users can create and manage their expenses with detailed information, including the product title, description, price, date, time, and associated user ID.
+2. Fetching Expenses: The API provides an endpoint to fetch all the expenses for a particular date and time. Users can specify the desired date, and optionally, the time, to retrieve relevant expense records.
+
+3. Total Expenditure Calculation: Users can request the API to generate the total expenditure for a given month. By providing the desired month, the API calculates and returns the cumulative expenses incurred by the user during that period.
+
+4. Database and Deployment: The API utilizes a MySQL database to store expense records, ensuring data persistence. The deployment link's IP address is static, offering consistent access to the API and its functionalities.
+
+5. Validation: The Expense Tracker API implements annotation-based validation to ensure data integrity and reliability. This validation process helps prevent erroneous or incomplete data from being stored or processed.
+
 ## Frameworks and language used:
 1. Spring boot
 2. Java
