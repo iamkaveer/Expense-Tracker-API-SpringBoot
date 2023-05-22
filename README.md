@@ -49,6 +49,11 @@ date	     ->       date	   ->       The date of the expense
 
 userEmail    ->   	string	   ->     The email of the user who created the expense
 
+## VIDEO LINK : https://www.youtube.com/watch?v=XQmn4AZnKM0
+
+[![Video](https://img.youtube.com/vi/XQmn4AZnKM0/0.jpg)](https://www.youtube.com/watch?v=XQmn4AZnKM0)
+
+
 
 ## Project Summary:
 The Expense Tracker API is a RESTful API that allows users to track their expenses. The API supports creating, reading, updating, and deleting expenses, and generating reports on a monthly or weekly basis. Users are required to sign up and sign in to use the API.
